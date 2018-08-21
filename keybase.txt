@@ -29,7 +29,7 @@ To do so, I am signing this object:
         "version": 1
     },
     "ctime": 1498728435,
-    "expire_in": 157680000,
+    "expire_in": 1576800000,
     "prev": "d6fa6fe01556ea520bad2b052c21288731d079ca7180e873f56801960c150af2",
     "seqno": 42,
     "tag": "signature"
